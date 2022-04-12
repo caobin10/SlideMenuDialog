@@ -1,4 +1,4 @@
-package com.ufi.pdioms.ztkotlin
+package com.demo.test.kotlin
 
 import org.junit.Test
 
